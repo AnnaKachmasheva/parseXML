@@ -1,5 +1,5 @@
 # Parser XML
-The application downloads data in xml format from a URL (*https://www.smartform.cz/download/kopidlno.xml.zip*), processes it, and stores it in a PostgreSQL database.
+The application downloads data in xml format from the URL (*https://www.smartform.cz/download/kopidlno.xml.zip*), processes it and saves it to the PostgreSQL database.
 
 Data is stored in 2 tables:
 
